@@ -1,5 +1,5 @@
 # Cadastro de Eventos
-Projeto utilizando Asp.NET Core 2.2 Web API, Angular 7, Entity Framework Core 2.2 e Asp.NET Core Identity
+Projeto utilizando Asp.NET Core Web API, Asp.NET MVC, Entity Framework Core e Asp.NET Core Identity e Angular 7
 
 ## Sobre
 Um projeto de cadasto de Eventos
