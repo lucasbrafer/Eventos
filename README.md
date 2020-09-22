@@ -5,4 +5,4 @@ Projeto utilizando Asp.NET Core Web API, Asp.NET MVC, Entity Framework Core e As
 Um projeto de cadasto de Eventos
 
 ## Licença
-Este projeto está sob a Licença [MIT](LICENSE.md)
+Este projeto está sob a Licença [MIT](LICENSE)
