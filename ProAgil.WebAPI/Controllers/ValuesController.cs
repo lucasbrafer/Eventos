@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
+using ProAgil.WebAPI.Model;
+
 namespace ProAgil.WebAPI.Controllers
 {
     [Route("api/[controller]")]
@@ -12,9 +14,18 @@ namespace ProAgil.WebAPI.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<IEnumerable<Evento>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new Evento[] { 
+                new Evento() {
+                    EventoId = 1,
+                    Tema = "Xit",
+                    Local = "Xit",
+                    Lote = "1 Lote",
+                    QtdPessoas = 250,
+                    DataEvento = DateTime.Now.AddDays(2).ToString("dd/MM/yyyy")
+                }
+             };
         }
 
         // GET api/values/5
