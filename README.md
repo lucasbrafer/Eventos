@@ -6,7 +6,7 @@ Aplicação Web para cadastro de eventos utilizando Tecnologia API RESTful com o
 - Angular 7
 - RESTful API
 - Características e Conceitos Essenciais ASP.Net API MVC
-- Mergulho ao Entity Framework Core
+- Entity Framework Core
 - Web API em várias Camadas
 
 ## Licença
