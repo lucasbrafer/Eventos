@@ -1,8 +1,13 @@
 # Cadastro de Eventos (Em Desenvolvimento)
-Projeto utilizando Asp.NET Core Web API, Asp.NET MVC, Entity Framework Core e Asp.NET Core Identity e Angular 7
+Aplicação Web para cadastro de eventos utilizando Tecnologia API RESTful com o ASP.NET Core e Entity Framework Core e como Front-End Angular 7
 
-## Sobre
-Um projeto de cadasto de Eventos
+## Conceitos Utilizados
+- ASP.NET Core
+- Angular 7
+- RESTful API
+- Características e Conceitos Essenciais ASP.Net API MVC
+- Entity Framework Core
+- Web API em várias Camadas
 
 ## Licença
 Este projeto está sob a Licença [MIT](LICENSE)
