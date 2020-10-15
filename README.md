@@ -1,5 +1,5 @@
 # Cadastro de Eventos (Em Desenvolvimento)
-Aplicação Web para cadastro de eventos utilizando Tecnologia API RESTful com o ASP.NET Core e Entity Framework Core e como Front-End Angular 7
+Aplicação Web para cadastro de eventos utilizando Tecnologia API RESTful com o ASP.NET Core e Entity Framework Core e como Front-End Angular
 
 ## Conceitos Utilizados
 - ASP.NET Core
